@@ -65,3 +65,28 @@ print(3.14 * rad * rad)
 # output
 # enter radius - 3.14
 # area of cirle is -  30.959144000000002
+
+#Create a program that takes two numbers as input and prints whether the first number is greater than, less than, or equal to the second number.
+a = int(input("enter 1st no. - "))
+b = int(input("enter 2st no. - "))
+if a > b:
+    print("a is greater")
+elif a < b:
+    print("b is greater")
+else:
+    print("a is equal to b")
+
+# Use the ternary operator to find the maximum of three numbers entered by the user.
+x = int(input("enter 1st no. - "))
+y = int(input("enter 2st no. - "))
+print("x is greater" if x > y else "y is greater")
+
+# Develop a Python script that calculates the square and cube of a given number.
+x = int(input("enter no. - "))
+print("cube of a no. is - ", x**3)   #8
+print("square of a no. is - ", x**2)   #9
+
+# output
+# enter no. - 3
+# cube of a no. is -  27
+# square of a no. is -  9
