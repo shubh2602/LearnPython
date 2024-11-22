@@ -78,12 +78,12 @@
 # 5*4*3*2*1=120
 
 x = int(input("enter a no. - "))
+fact = 1
 if x < 0:
     print("fact. not possible")
 elif x == 0:
     print("fact.->>", 1)
 else:
-    fact = 1
     for i in range(1, x + 1):
         fact = fact*i
-    print("fact.->>", fact)
+print("fact.->>", fact)
