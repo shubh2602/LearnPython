@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7477a5-2ae1-42b1-b2f3-bfad53a18abe" name="Changes" comment="basic calculator">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LearnPython7Days" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnPython7Days" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.session01 (1).executor": "Run",
-    "Python.session01 (2).executor": "Run",
-    "Python.session01.executor": "Run",
-    "Python.session02 (1).executor": "Run",
-    "Python.session02.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.session01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session01 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.session02 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.session02 (1)">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LearnPython" />
