@@ -2,10 +2,10 @@
 
 # Exercise 1: Print first 10 natural numbers using while loop
 
-# i = 1
-# while i <= 10:
-#     print(i)
-#     i = i+1
+i = 1
+while i <= 10:
+    print(i)
+    i = i+1
 
 # Exercise 2: Print the following pattern
 # 1
