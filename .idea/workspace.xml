@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7477a5-2ae1-42b1-b2f3-bfad53a18abe" name="Changes" comment="basic calculator">
-      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day05/session02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Loops_Conditions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LearnPython7Days" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnPython7Days" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Loops_Conditions (1).executor": "Run",
-    "Python.session01 (1).executor": "Run",
-    "Python.session01 (2).executor": "Run",
-    "Python.session01 (3).executor": "Run",
-    "Python.session01.executor": "Run",
-    "Python.session02 (1).executor": "Run",
-    "Python.session02 (2).executor": "Run",
-    "Python.session02.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Loops_Conditions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session01 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session01 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.session02 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session02 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.session02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Shubham Pandey\PycharmProjects\LearnPython\Practice" />

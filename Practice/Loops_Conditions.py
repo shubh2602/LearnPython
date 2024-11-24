@@ -69,4 +69,25 @@ list1 = [10, 20, 30, 40, 50]
 for i in range(4, -1, -1):
     print(list1[i])
 
+# Exercise 18: Print the following pattern
+# *
+# * *
+# * * *
+# * * * *
+# * * * * *
+# * * * *
+# * * *
+# * *
+# *
 
+k = 4
+for i in range(0, 9):
+    if i > 4:
+        for j in range(k, 0, -1):
+            print('*', end=' ')
+        k = k - 1
+        print()
+    else:
+        for j in range(0, i + 1):
+            print('*', end=' ')
+        print()
