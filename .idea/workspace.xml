@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e7477a5-2ae1-42b1-b2f3-bfad53a18abe" name="Changes" comment="basic calculator">
-      <change afterPath="$PROJECT_DIR$/Day06/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06/session01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects(Lvl-1)/Number_guessing_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects(Lvl-1)/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day03/session01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/session01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day03/session02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/session02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LearnPython7Days" beforeDir="false" afterPath="$PROJECT_DIR$/../LearnPython7Days" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
