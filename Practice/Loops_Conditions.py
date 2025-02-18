@@ -5,7 +5,7 @@
 i = 1
 while i <= 10:
     print(i)
-    i = i+1
+    i = i + 1
 
 # Exercise 2: Print the following pattern
 # 1
@@ -16,7 +16,7 @@ while i <= 10:
 
 rows = 5
 for i in range(1, rows + 1):
-    for j in range(1, i+1):
+    for j in range(1, i + 1):
         print(j, end="  ")
     print()
 
@@ -97,9 +97,24 @@ for i in range(0, 9):
 #     * * *
 #   * * * *
 # * * * * *
+
 for i in range(1, 6):
     for j in range(5, i, -1):
         print(" ", end=' ')
-    for k in range(1, i+1, 1):
+    for k in range(1, i + 1, 1):
         print("* ", end='')
+    print()
+
+# * * * *
+# *     *
+# *     *
+# * * * *
+
+n = int(input("enter the no."))
+for i in range(1, n+1):
+    for j in range(1, n+1):
+        if i == 1 or i == n or j == 1 or j == n:
+            print("*", end=" ")
+        else:
+            print(" ", end=" ")
     print()

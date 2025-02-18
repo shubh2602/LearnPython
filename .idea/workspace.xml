@@ -41,6 +41,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Loops_Conditions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops_Conditions.executor&quot;: &quot;Run&quot;,
     &quot;Python.Number_guessing_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.session01 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.session01 (2).executor&quot;: &quot;Run&quot;,
